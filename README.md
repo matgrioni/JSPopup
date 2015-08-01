@@ -4,4 +4,5 @@ is hovered over. However, this did not fit all my needs so I made this copy
 which is sufficiently different to not warrant a fork, but a different repo.
 
 Enjoy!
+
 -- Matias Grioni
